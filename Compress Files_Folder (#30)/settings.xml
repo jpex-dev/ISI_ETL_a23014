@@ -103,7 +103,7 @@
         <entry key="include_empty_folders" type="xboolean" value="true"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.filehandling.utility.nodes.compress.filechooser.CompressFileChooserNodeFactory"/>
     <entry key="node-name" type="xstring" value="Compress Files/Folder"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Filehandling Nodes"/>
@@ -120,11 +120,11 @@
         <config key="Destination File System Connection"/>
     </config>
     <entry key="name" type="xstring" value="Compress Files/Folder"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="06e4f3a8-d2ce-4b2e-a50f-3136f071f29f"/>
     </config>
 </config>
